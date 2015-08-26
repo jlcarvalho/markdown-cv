@@ -2,23 +2,26 @@
 layout: cv
 title: Jean Lucas de Carvalho's CV
 ---
+# Dados do coordenador
+
 # Jean Lucas de Carvalho
 Front-end engineer
 
 <div id="webaddress">
 <a href="oi@jeanlucas.com.br">oi@jeanlucas.com.br</a>
-| <a href="http://www.jeanlucas.com.br">jeanlucas.com.br/a>
-| <a href="https://br.linkedin.com/in/jeanlucasdecarvalho">LinkedIn/a>
+| <a href="http://www.jeanlucas.com.br">jeanlucas.com.br</a>
+| <a href="https://br.linkedin.com/in/jeanlucasdecarvalho">LinkedIn</a>
 </div>
 
 
 ## Currently
 
-Futuring founder, CTO at Certifiq.
+- Founder, Futuring
+- CTO, Certifiq
 
 ### Specialized in
 
-Front-end techs such AngularJS, SASS, Stylus and Require.js. Mobile web with Cordova and Ionic Framework. OpenLayers. Wordpress and Woocommerce.
+JavaScript. MEAN stack. Mobile web with Cordova, Ionic Framework and PouchDB. OpenLayers. Wordpress and WooCommerce.
 
 
 ### Research interests
@@ -28,62 +31,110 @@ Startups, mobile web, design patterns, software architecture, collaborative filt
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2009 - 2015`
+__Universidade Federal de Goiás__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - 
-__Trinity College, Cambridge__
-
-- Fellow
+- Bachelor of Information Systems
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2013`
+Winner, *1st Seminar of Innovation, Entrepreneurship and Startups of PUC Goiás*, Goiânia, Brazil
 
-Associate, *French Academy of Science*, Paris, France
+Participant, *Google Developer Bus*, São Paulo, Brazil
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
+2nd, *Startup Weekend Goiânia*, Goiânia, Brazil
 
 `2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+2nd, *Startup Weekend Goiânia*, Goiânia, Brazil
+
+2nd, *CET-UFG entrepreneurship award*, Goiânia, Brazil
 
 
-## Occupation
 
-`1600`
-__Royal Mint__, London
+## Other employment
 
-- Warden
-- Minted coins
+`Jun 2014 Aug 2015`
+__Front-end developer, Saltus Tecnologia__, Goiânia, Brazil
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Front-end development using AngularJS, Require.js, Open Layers and SASS.
+
+`Jan 2014 Jun 2014`
+__Web developer, Monodois Design Estratégico__, Goiânia, Brazil
+
+- Web development using Wordpress and WooCommerce.
+
+`Oct 2013 Dec 2013`
+__Front-end developer, Amigão__, Goiânia, Brazil
+
+- Freelancer. Front-end development using AngularJS.
+
+`Mar 2012 Dec 2013`
+__Front-end developer, LabTIME - UFG__, Goiânia, Brazil
+
+- Front-end development using AngularJS, jQuery, Bootstrap and LESS.
+
+`Jun 2011 Mar 2012`
+__Web developer internship, FinalTec__, Goiânia, Brazil
+
+- Web development using PHP and Wordpress.
+
+`Jun 2011 Mar 2012`
+__Web developer, Astro Informática__, Goiânia, Brazil
+
+- E-commerce development using Magento.
 
 
+
+## Extracurricular
+
+`2010 - 2015`
+__Unificada Rugby__, Goiânia, Brazil
+
+- 2nd at InterUFG 2015
+- Winner at InterUFG 2014
+- Winner at InterUFG 2013
+- 3rd at InterUFG 2012
+- 2nd at TECO 2011
+- 5th at InterUFG 2011
+- 3rd at TECO 2010
+
+`2012 - 2013`
+__Invictus__, Goiânia, Brazil
+
+- 2nd at #4 AAAUCOMP league of indoor soccer
+- 2nd at #3 AAAUCOMP league of indoor soccer
+
+`2010`
+__C.S.I.__, Goiânia, Brazil
+
+- 3rd at #1 AAAUCOMP league of indoor soccer
+- Winner at #4 Copa Inf of indoor soccer
+
+
+## Volunteering
+
+`2013 - now`
+__Google Developer Group__, Goiânia, Brazil
+
+- Event organizer
+
+`2013 - now`
+__Front-end Goiás__, Goiânia, Brazil
+
+- Event organizer
+
+`2010 - 2012`
+
+__AAAUCOMP UFG__, Goiânia, Brazil
+
+- Event organizer
+
+## Interests
+
+New techs, entrepreneurship, books, photo, music, games, soccer and rugby.
 
 <!-- ### Footer
 
