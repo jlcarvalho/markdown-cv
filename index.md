@@ -1,28 +1,29 @@
 ---
 layout: cv
-title: Eliseo Papa's CV
+title: Jean Lucas de Carvalho's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jean Lucas de Carvalho
+Front-end engineer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page/a>
+<a href="oi@jeanlucas.com.br">oi@jeanlucas.com.br</a>
+| <a href="http://www.jeanlucas.com.br">jeanlucas.com.br/a>
+| <a href="https://br.linkedin.com/in/jeanlucasdecarvalho">LinkedIn/a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Futuring founder, CTO at Certifiq.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Front-end techs such AngularJS, SASS, Stylus and Require.js. Mobile web with Cordova and Ionic Framework. OpenLayers. Wordpress and Woocommerce.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Startups, mobile web, design patterns, software architecture, collaborative filtering, project management, computer music.
 
 
 ## Education
