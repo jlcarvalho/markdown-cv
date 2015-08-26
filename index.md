@@ -2,8 +2,6 @@
 layout: cv
 title: Jean Lucas de Carvalho's CV
 ---
-# Dados do coordenador
-
 # Jean Lucas de Carvalho
 Front-end engineer
 
