@@ -29,7 +29,7 @@ Startups, mobile web, design patterns, software architecture, collaborative filt
 
 ## Education
 
-`2009 - 2015`
+`2009 - 2016`
 __Universidade Federal de Goiás__
 
 - Bachelor of Information Systems
