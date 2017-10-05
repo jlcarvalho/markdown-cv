@@ -59,32 +59,32 @@ Participant, *Google Developer Bus*, São Paulo, Brazil
 
 ## Other employment
 
-`Jun 2014 Aug 2015`
+`06/2014 08/2015`
 __Front-end developer, Saltus Tecnologia__, Goiânia, Brazil
 
 - Front-end development using AngularJS, Require.js, Open Layers and SASS.
 
-`Jan 2014 Jun 2014`
+`01/2014 06/2014`
 __Web developer, Monodois Design Estratégico__, Goiânia, Brazil
 
 - Web development using Wordpress and WooCommerce.
 
-`Oct 2013 Dec 2013`
+`10/2013 12/2013`
 __Front-end developer, Amigão__, Goiânia, Brazil
 
 - Freelancer. Front-end development using AngularJS.
 
-`Mar 2012 Dec 2013`
+`03/2012 12/2013`
 __Front-end developer, LabTIME - UFG__, Goiânia, Brazil
 
 - Front-end development using AngularJS, jQuery, Bootstrap and LESS.
 
-`Jun 2011 Mar 2012`
+`06/2011 03/2012`
 __Web developer internship, FinalTec__, Goiânia, Brazil
 
 - Web development using PHP and Wordpress.
 
-`Jun 2011 Mar 2012`
+`07/2010 01/2011`
 __Web developer, Astro Informática__, Goiânia, Brazil
 
 - E-commerce development using Magento.
