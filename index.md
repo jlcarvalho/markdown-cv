@@ -40,7 +40,9 @@ __Universidade Federal de Goiás__
 
 `2017`
 3rd, *Hackathon Globo*, Rio de Janeiro, Brazil
+
 Winner, *Hackathon Globo, Visa Challenge*, Rio de Janeiro, Brazil
+
 Winner, *Hackathon Globo, Red Hat OpenShift Challenge*, Rio de Janeiro, Brazil
 
 `2013`
