@@ -14,12 +14,12 @@ Front-end engineer
 
 ## Currently
 
-- Founder, Futuring
-- CTO, Certifiq
+- Front-end developer, HE:labs
+- Founder and Instructor, Futuring
 
 ### Specialized in
 
-JavaScript. MEAN stack. Mobile web with Cordova, Ionic Framework and PouchDB. OpenLayers. Wordpress and WooCommerce.
+JavaScript. React. Angular. Mobile web with Cordova, Ionic Framework and PouchDB. OpenLayers. Wordpress and WooCommerce.
 
 
 ### Research interests
@@ -37,6 +37,11 @@ __Universidade Federal de Goiás__
 
 
 ## Awards
+
+`2017`
+3rd, *Hackathon Globo*, Rio de Janeiro, Brazil
+Winner, *Hackathon Globo, Visa Challenge*, Rio de Janeiro, Brazil
+Winner, *Hackathon Globo, Red Hat OpenShift Challenge*, Rio de Janeiro, Brazil
 
 `2013`
 Winner, *1st Seminar of Innovation, Entrepreneurship and Startups of PUC Goiás*, Goiânia, Brazil
@@ -115,12 +120,12 @@ __C.S.I.__, Goiânia, Brazil
 ## Volunteering
 
 `2013 - now`
-__Google Developer Group__, Goiânia, Brazil
+__Front-end Goiás__, Goiânia, Brazil
 
 - Event organizer
 
-`2013 - now`
-__Front-end Goiás__, Goiânia, Brazil
+`2013 - 2015`
+__Google Developer Group__, Goiânia, Brazil
 
 - Event organizer
 
@@ -136,6 +141,6 @@ New techs, entrepreneurship, books, photo, music, games, soccer and rugby.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Oct 2017 -->
 
 
