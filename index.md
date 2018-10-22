@@ -14,12 +14,11 @@ Front-end engineer
 
 ## Currently
 
-- Front-end developer, HE:labs
-- Founder and Instructor, Futuring
+- Founder and front-end developer, Futuring
 
 ### Specialized in
 
-JavaScript. React. Angular. Mobile web with Cordova, Ionic Framework and PouchDB. OpenLayers. Wordpress and WooCommerce.
+JavaScript. PWAs. React and Next.js. Angular. Mobile web with Cordova, Ionic Framework and PouchDB. OpenLayers.
 
 
 ### Research interests
@@ -61,6 +60,11 @@ Participant, *Google Developer Bus*, São Paulo, Brazil
 
 ## Other employment
 
+`07/2016 06/2018`
+__Fullstack developer, HE:labs__, Remote, Brazil
+
+- Front-end development using React, Next.js, Angular 2+, AngularJS, Express and Sequelize.
+
 `06/2014 08/2015`
 __Front-end developer, Saltus Tecnologia__, Goiânia, Brazil
 
@@ -89,7 +93,7 @@ __Web developer internship, FinalTec__, Goiânia, Brazil
 `07/2010 01/2011`
 __Web developer, Astro Informática__, Goiânia, Brazil
 
-- E-commerce development using Magento.
+- E-commerce development using PHP.
 
 
 
